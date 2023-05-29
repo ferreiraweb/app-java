@@ -4,7 +4,7 @@ import java.util.Random;
 
 import javax.swing.text.Style;
 
-public class Aluno {
+class Aluno {
 
     // Atributos
     private String nome;
